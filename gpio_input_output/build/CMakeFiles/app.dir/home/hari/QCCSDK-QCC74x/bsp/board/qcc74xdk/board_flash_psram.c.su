@@ -1,0 +1,2 @@
+/home/hari/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_flash_psram.c:16:6:qcc74x_show_flashinfo	112	static
+/home/hari/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_flash_psram.c:136:10:board_psram_x8_init	160	static
